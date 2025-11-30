@@ -1,5 +1,5 @@
 # LensCut
-软件正在内测中，可以先收藏下来，后面会更新到这里。
+软件结合制作动画的痛点，专为制作而设计，软件已制作完成，正在内测中，可以先收藏下来，后面会更新到这里。
 ## 上传剧本
 ![bfd8db83-0b29-4f6c-9c6b-f706f436e37d](https://github.com/user-attachments/assets/fd29c4ad-09bc-4deb-bf48-135e1bc39a46)
 ## 分镜单独处理
