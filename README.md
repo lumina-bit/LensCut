@@ -1,4 +1,4 @@
-# LensCutAI
+# CartoonCutAI
 软件结合制作动画的痛点，专为制作而设计，可以先收藏下来，后面会更新到这里。
 # 下载链接
 链接：https://pan.quark.cn/s/522196fb257e
